@@ -1,0 +1,51 @@
+/* Base styles for all pages */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 5;
+    padding: 5;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #2c3e50;
+    margin: 20px 0;
+}
+
+h3 {
+    color: #7f8c8d;
+    margin: 5px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+

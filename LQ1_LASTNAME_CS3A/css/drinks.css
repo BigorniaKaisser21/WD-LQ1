@@ -1,0 +1,13 @@
+/* Drinks page specific styles */
+table {
+    background-color: #f8f9fa;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

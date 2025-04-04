@@ -1,0 +1,13 @@
+/* Sweets page specific styles */
+table {
+    background-color: #f8f9fa;
+}
+
+th {
+    background-color: #e74c3c;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
